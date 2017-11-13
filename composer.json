@@ -1,0 +1,19 @@
+{
+    "name": "shawn.zheng/zx",
+    "description" : "shawn.zheng's learning record",
+    "type" : "library",
+    "license" : "MIT",
+    "authors": [
+        {
+            "name": "shawn.zheng",
+            "email": "414924927@qq.com"
+        }
+    ],
+    "minimum-stability" : "dev",
+    "require": {},
+    "autoload" : {
+    	"psr-4" : {
+    		"Core\\" : "library"
+    	}
+    }
+}
