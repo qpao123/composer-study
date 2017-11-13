@@ -11,4 +11,8 @@ class People {
 	public function fn(){
 	    echo 'hao hao xue xi ,tian tian xiang shang';
     }
+
+    public function test($name){
+	    echo $name . ' ha ha ha ';
+    }
 }
